@@ -1,0 +1,5 @@
+a = [3,5,7,11,19,23,29,37,41,43]
+count = 0
+for i in a:
+	count+=i
+print(count)
